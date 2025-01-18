@@ -4,4 +4,4 @@
 
   - [Resolving Help Desk Tickets through osTicket](https://github.com/lainezr/osTicket)
   - [Locating resources with DNS](https://github.com/lainezr/DNS)
-  - [Network File Sharing and Permissions for Client Computers](https://github.com/lainezr/shares-permissions)
+  - [Network File Shares and Permissions for Client Computers](https://github.com/lainezr/shares-permissions)
