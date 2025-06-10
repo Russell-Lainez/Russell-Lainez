@@ -10,7 +10,6 @@
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Russell | LinkedIn" width="26px" src="https://www.shutterstock.com/image-vector/square-blue-colour-white-background-600nw-2095893022.jpg" />][linkedin]
-[<img align="left" alt="Russell | Professional Website" width="22px" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/875/original/Logo_sail.png" />][Professional Website]
+
 
 [linkedin]: https://www.linkedin.com/in/russell-lainez/
-[Professional Website]: https://profile.coursecareers.com/it/russell.lainez
