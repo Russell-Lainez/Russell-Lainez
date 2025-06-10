@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+  - [Deploying, Configuring, and Using Active Directory](https://github.com/Russell-Lainez/Active-Directory) 
   - [Resolving Help Desk Tickets through osTicket](https://github.com/lainezr/osTicket)
   - [Locating resources with DNS](https://github.com/lainezr/DNS)
   - [Network File Shares and Permissions for Client Computers](https://github.com/lainezr/shares-permissions)
